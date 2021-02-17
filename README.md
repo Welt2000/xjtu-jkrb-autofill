@@ -5,9 +5,9 @@
 jkrb.py需配置好python环境和seleium库及浏览器驱动后才可正常使用，浏览器驱动和id.txt文件需放置在jkrb.py同目录下。
 
 
-jkrb.exe为打包好的程序，支持Edge，Chrome和Firefox，需将对应的浏览器驱动和id.txt文件与程序放在同一目录下，即可使用。
-各浏览器驱动详见：http://www.testclass.net/selenium_python/selenium3-browser-driver
-需下载对应版本才可正常使用哦！
+jkrb.exe为打包好的程序，支持Edge，Chrome和Firefox，需将对应的浏览器驱动和id.txt文件与程序放在同一目录下，即可使用。  
+各浏览器驱动详见：http://www.testclass.net/selenium_python/selenium3-browser-driver  
+需下载对应版本才可正常使用哦！  
 暂时使用id.txt文本文件存储用户名（学号）和密码,首行为用户名，第二行为密码。  
 填写格式如下：  
 ```  
